@@ -1,2 +1,1 @@
-# primeiroprojeto
-desenvolvido com alura.
+
